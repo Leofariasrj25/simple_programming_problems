@@ -1,0 +1,6 @@
+# elementary ex1 - Write a program that prints ‘Hello World’ to the screen.
+
+def main():
+    print("Hello World")
+
+main()
